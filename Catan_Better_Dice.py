@@ -51,10 +51,10 @@ def play_game():
         
         while True:
             for player in players:
-                continue_game = input(f"{player}, press Enter to roll, or 'e' to exit: ")
+                continue_game = input(f"{player}, press Enter to roll, or write 'e' and press Enter to exit: ")
 
                 if continue_game.lower() == 'e':
-                    confirmation = input("Are you sure you want to quit? Enter 'e' to confirm: ")
+                    confirmation = input("Are you sure you want to quit? Write 'e' and press Enter to confirm: ")
                     if confirmation.lower() == 'e':
                         display_stats(stats, num_rolls)
                         return  
