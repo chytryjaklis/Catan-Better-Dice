@@ -5,18 +5,9 @@ By reducing randomness, this version of the game makes the gameplay more predict
 Weight Distribution and Probabilities
 The weights assigned to each number in this project were determined based on the probability of obtaining certain results when rolling two standard six-sided dice, as well as the actual distribution of results in the Catan game. Below is the table that shows the probability distribution for the weighted dice rolls:
 
-Result	Weight (%)	Probability	Notes
-2     	2.78%        	1/36	    One possible outcome (1+1)
-3      	5.56%        	2/36	    Two possible outcomes (1+2, 2+1)
-4      	8.33%        	3/36	    Three possible outcomes (1+3, 2+2, 3+1)
-5      	11.11%      	4/36	    Four possible outcomes (1+4, 2+3, 3+2, 4+1)
-6      	13.89%      	5/36	    Five possible outcomes (1+5, 2+4, 3+3, 4+2, 5+1)
-7      	16.67%      	6/36	    Six possible outcomes (1+6, 2+5, 3+4, 4+3, 5+2, 6+1)
-8      	13.89%      	5/36	    Five possible outcomes (2+6, 3+5, 4+4, 5+3, 6+2)
-9      	11.11%      	4/36    	Four possible outcomes (3+6, 4+5, 5+4, 6+3)
-10    	8.33%        	3/36	    Three possible outcomes (4+6, 5+5, 6+4)
-11    	5.56%        	2/36	    Two possible outcomes (5+6, 6+5)
-12    	2.78%        	1/36    	One possible outcome (6+6)
+
+![123](https://github.com/user-attachments/assets/5282fc21-419a-4331-ac4c-8bc925fafc2f)
+
 
 Project Versions:
 
